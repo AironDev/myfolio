@@ -19,12 +19,12 @@
 			<section id="header">
 				<header class="major">
 					<figure class="figure">
-						<img src="images/me.png" style=" border-radius: 150px; width: 150px;" class="figure-img img-fluid rounded" alt="">
+						<img src="images/me1.png" style=" border-radius: 150px; width: 150px;" class="figure-img img-fluid rounded" alt="">
 						<figcaption class="figure-caption"></figcaption>
 					</figure>
-					<h1 style="font-size: 2em">Aniebiet Aaron</h1>
+					<h1 style="font-size: 2em">Ken Doe</h1>
 					<p> Software Developer</p>
-					<span class="tagline">Physics/Computer Science Undergraduate | Backend Developer [Laravel & NodeJs] | HNGi7 Finalist</span>
+					<span class="tagline">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius labore et dolore magna aliqua. Ut enim ad minim veniam</span>
 					<br>
 					<div class="social-buttons">
 				  <a href="#" class="social-buttons__button social-button social-button--facebook" aria-label="Facebook">
@@ -35,11 +35,6 @@
 				  <a href="#" class="social-buttons__button social-button social-button--linkedin" aria-label="LinkedIn">
 				    <span class="social-button__inner">
 				     <i class="fab fa-linkedin-in"></i>
-				    </span>
-				  </a>
-				  <a href="#" class="social-buttons__button social-button social-button--snapchat" aria-label="SnapChat">
-				    <span class="social-button__inner">
-				     <i class="fab fa-snapchat-ghost"></i>
 				    </span>
 				  </a>
 				  <a href="#" class="social-buttons__button social-button social-button--github" aria-label="GitHub">
@@ -73,7 +68,7 @@
 						<header class="major">
 							<h2 class=" stati accent">Who I am</h2>
 						</header>
-						<p>I'm a software developer, I particularly love the #Backend side of things, but that doesnt stop me from getting my hands with frontend, with PHP as my first language, am very comfortable with Laravel and Wordpress. I love  Javascript - MEVN Stack and Adonis JS but not enough to pride myself as Fullstack Developer. I'm currently learning Golang for enterprise solutions. My long term goal lies somewhere between Devops and Cloud Engineering </p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 						<section>	
 							<h5>Favorite Quote</h5>
@@ -274,47 +269,6 @@
 						        </div>
 						    </div>
 
-							 <div class="skill link">
-						        <div class="skill-face">
-						          <div class="skill-text"><i class="fab fa-github-alt"></i></div>
-						        </div>
-						      </div>
-
-							<div class="skill">
-								<span class="tooltip">CSS</span>
-							       <div class="skill-face">
-							          <div class="skill-text"><i class="fab fa-css3-alt"></i></div>
-							       </div>
-
-							        <div class="skill-back">
-							          <div class="skill-text">
-							            <i class="fa fa-star"></i>
-							            <i class="fa fa-star"></i>
-							            <i class="fa fa-star"></i>
-							            <i class="fa fa-star"></i>
-							            <i class="fas fa-star-half-alt"></i>
-							          </div>
-							        </div>
-							</div>
-
-							<div class="skill">
-						        <span class="tooltip">Bulma</span>
-						        <div class="skill-face">
-						          <div class="skill-text">
-						            <img src="https://bulma.io/favicons/favicon-32x32.png?v=201701041855" alt="">
-						          </div>
-						        </div>
-						        <div class="skill-back">
-						          <div class="skill-text">
-						            <i class="fa fa-star"></i>
-						            <i class="fa fa-star"></i>
-						            <i class="fa fa-star"></i>
-						            <i class="fa fa-star"></i>
-						            <i class="fas fa-star-half-alt"></i>
-						          </div>
-						        </div>
-						   	</div>
-
 						</div>
 
 					</div>
@@ -381,7 +335,7 @@
 						<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
-						<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li><li>Demo Images: <a href="http://unsplash.com">Unsplash</a></li>
+						<li>&copy; Airdge NG</li><li>2020</li>
 					</ul>
 				</footer>
 			</section>

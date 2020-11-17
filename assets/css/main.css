@@ -84,7 +84,7 @@ input, select, textarea {
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/bg4.jpg");
+		background-image: url("images/overlay.png"), url("../../images/bg2.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
@@ -1977,9 +1977,21 @@ input, select, textarea {
 		header.major span.tagline {
 		    font-size: 16px;
 		    display: block;
-		    width: 400px;
+		    /*width: 400px;*/
 		    text-align: center;
 		    margin: auto;
+		    padding: 0 28%;
+		}
+
+		@media screen and (max-width: 736px) {
+			header.major span.tagline {
+			    font-size: 16px;
+			    display: block;
+			    /*width: 400px;*/
+			    text-align: center;
+			    margin: auto;
+			    padding: 0 1%;
+			}
 		}
 
 /* Form */
